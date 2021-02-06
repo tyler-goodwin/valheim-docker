@@ -13,3 +13,6 @@ Then:
 ```bash
 docker-compose up -d
 ```
+
+To expose to public you need to port forward:
+  - 2456-2458
